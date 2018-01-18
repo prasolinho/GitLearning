@@ -11,3 +11,4 @@ MASTER - ten line
 LOCAL MASTER - line 1
 LOCAL MASTER - line 2
 LOCAL MASTER - line 3
+LOCAL MASTER - line 4
