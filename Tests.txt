@@ -1,2 +1,3 @@
 First line
 MASTER - second line
+Feature2 - 1
