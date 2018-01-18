@@ -9,3 +9,4 @@ MASTER - fourth line
 
 MASTER - ten line
 LOCAL MASTER - line 1
+LOCAL MASTER - line 2
