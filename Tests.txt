@@ -1,1 +1,2 @@
 First line
+MASTER - second line
