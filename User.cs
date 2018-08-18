@@ -11,4 +11,5 @@ public class User
     public string AddressApartmentNumber { get; set; }
     public string AddressZipCode { get; set; }
     public string AddressCity { get; set; }
+    public DateTime LastLoginDate { get; set; }
 }
