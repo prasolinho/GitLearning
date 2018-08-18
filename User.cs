@@ -6,4 +6,10 @@ public class User
     public string Password { get; set; }
     public string Salt { get; set; }
     public DateTime EntryDate { get; set; }
+
+    public string AddressStreet { get; set; }
+    public string AddressHouseNumber { get; set; }
+    public string AddressApartmentNumber { get; set; }
+    public string AddressZipCode { get; set; }
+    public string AddressCity { get; set; }
 }
