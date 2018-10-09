@@ -3,3 +3,5 @@ Test
 git push fwl 002
 git push fwl 004
 git push fwl 003
+
+update-ref tests
