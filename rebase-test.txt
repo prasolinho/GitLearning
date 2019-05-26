@@ -1,2 +1,2 @@
 Line added on rebase-test branch.
-Line 2 added on origin/rebase-test branch.
+Line 2 added on rebase-test branch.
